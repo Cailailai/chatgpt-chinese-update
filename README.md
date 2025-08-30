@@ -1,6 +1,6 @@
-# ChatGPT 中文版：国内直连镜像网站汇总合集（支持 GPT-4、GPT-4o、o1、o3、 DeepSeek R1，Grok-3 无需翻墙）【8月23日持续更新】
+# ChatGPT 中文版：国内直连镜像网站汇总合集（支持 GPT-4、GPT-4o、o1、o3、 DeepSeek R1，Grok-3 无需翻墙）【8月30日持续更新】
 
-**更新时间：2025/8/23**  
+**更新时间：2025/8/30**  
 **关键词：ChatGPT中文、ChatGPT镜像网站**
 
 无需翻墙！快速体验 ChatGPT 中文服务，支持 GPT-4、GPT-3.5 和免费功能！  
